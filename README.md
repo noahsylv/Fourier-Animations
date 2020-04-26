@@ -11,7 +11,7 @@ How to use:
 6. To increase or decrease the number of vectors, use 'q' and 'w'
 
 Controls:
-Space: show/hide arrows
+- Space: show/hide arrows
 - 'r' : generate new random set of vectors
 - 'd' : start/stop draw mode
 - 'f' : solve drawn shape/ flip direction
