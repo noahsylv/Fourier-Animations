@@ -12,10 +12,10 @@ How to use:
 
 Controls:
 Space: show/hide arrows
-'r' : generate new random set of vectors
-'d' : start/stop draw mode
-'f' : solve drawn shape/ flip direction
-'a' : show drawn shape
-'q' : increase number of vectors
-'w' : decrease number of vectors
-'c' : clear drawing
+- 'r' : generate new random set of vectors
+- 'd' : start/stop draw mode
+- 'f' : solve drawn shape/ flip direction
+- 'a' : show drawn shape
+- 'q' : increase number of vectors
+- 'w' : decrease number of vectors
+- 'c' : clear drawing
